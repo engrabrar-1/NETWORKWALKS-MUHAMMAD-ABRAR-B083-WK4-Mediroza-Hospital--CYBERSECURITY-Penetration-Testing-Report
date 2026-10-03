@@ -226,3 +226,19 @@ M4 is the consolidated, client-facing write-up built from the M1–M3 evidence a
 ## Disclaimer
 
 This content was produced for a controlled, authorized security-training lab using synthetic data. It is shared for educational purposes (OWASP-style web app testing methodology, reporting structure) and must not be used against systems you do not own or have explicit written authorization to test.
+
+## 👤 Author
+
+**Muhammad Abrar**  
+Cybersecurity Professional B083B
+
+**LinkedIn:** https://www.linkedin.com/in/muhammadabrar3/
+
+## 📌 Project Information
+
+- **Program:** Cybersecurity at Networkwalks
+- **Project:** Cybersecurity & Pentesting Lab Setup
+- **Task:** Mediroza Hospital — Patient Portal Penetration Test
+- **Week:** Week-4
+- **Mentor:** waqaskarimccie
+- **Academy:** https://networkwalks.com/
